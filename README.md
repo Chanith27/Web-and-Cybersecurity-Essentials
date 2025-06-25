@@ -2,7 +2,6 @@
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
@@ -11,16 +10,12 @@
 - [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
-- [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
-- [ ] [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
-
-- [ ] [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
 - [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
@@ -41,8 +36,6 @@
 
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
-
 ## Linux Fundamentals
 
 - [ ] [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
@@ -60,16 +53,6 @@ In case you need deeper study into Linux read follow these:
 - [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
-
-- [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
-- [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
-- [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
-- [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
-
-- [ ] [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
-
-- [ ] [TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 
 - [ ] [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
@@ -90,26 +73,6 @@ In case you need deeper study into Linux read follow these:
 - [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
-
-## Recon
-
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
-
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
-
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
-
-- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
-
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
-
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-
-- [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
-- [ ] [TryHackMe | Searchlight - [ ] IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 - [ ] [TryHackMe | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
@@ -135,8 +98,6 @@ In case you need deeper study into Linux read follow these:
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-
-- [ ] ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ - [ ]- [ ] TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers- [ ]and- [ ]internet/xcae6f4a7ff015e7d:the- [ ]internet) Khan Academy resource, it's excellent trust me!
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
