@@ -22,7 +22,7 @@
 
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
