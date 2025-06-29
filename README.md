@@ -17,7 +17,7 @@
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 
-- [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [x] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
